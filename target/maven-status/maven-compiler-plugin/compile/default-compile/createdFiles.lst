@@ -1,0 +1,6 @@
+ucl\ac\uk\servlets\viewNoteServlet.class
+ucl\ac\uk\servlets\saveServlet.class
+ucl\ac\uk\servlets\sortDisplayServlet.class
+ucl\ac\uk\servlets\deleteServlet.class
+ucl\ac\uk\servlets\addNoteServlet.class
+ucl\ac\uk\servlets\editServlet.class
